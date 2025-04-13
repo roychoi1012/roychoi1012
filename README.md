@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/e.0_0.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e.0_0.r" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/channel/싱싱한고등어" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/ucggrluysphccx84_qo10vhq?si=rcrs-lv5kcgtsr2x" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/channel/싱싱한고등어" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/싱싱한고등어" height="30" width="40" /></a>
 <a href="https://discord.gg/최은렬#5381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="최은렬#5381" height="30" width="40" /></a>
 </p>
 
